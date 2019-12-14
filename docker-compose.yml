@@ -1,0 +1,14 @@
+# version: "2"
+# services:
+#   # menu:
+#   #   restart: always
+#   #   image: neilmnop/menujs_menu:secondtry
+#   #   ports:
+#   #     - "3003:3003"
+#   # reservations:
+#   #   restart: always
+#   #   image: hienhienn/opentable_reservations:deploy
+#   #   ports:
+#   #     - "3001:3001"
+#   proxy:
+#     build: .
